@@ -1,0 +1,3 @@
+[run]
+include = reduction_server/*
+omit = *migrations*
